@@ -1,0 +1,6 @@
+projectKey=com.nihal.product:productservices
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=com.nihal.product%3Aproductservices
+ceTaskId=AYPL7D5ZUmcOx6RoUQCS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPL7D5ZUmcOx6RoUQCS
